@@ -4,6 +4,11 @@
 
 ### Author: Alaa almasri
 
+### Links and Resources
+
+
+- [submission PR](https://github.com/alaaalmasri12/notes-v-2.0/pull/2)
+- [ci/cd](https://github.com/alaaalmasri12/notes-v-2.0/actions/runs/117805220) (GitHub Actions)
 
 ### Documentaion
 ## to create a new item in database write the fellowing command
@@ -32,11 +37,7 @@ code:
 
 
 
-### Links and Resources
 
-
-- [submission PR](https://github.com/alaaalmasri12/notes-v-2.0/pull/2)
-- [ci/cd](https://github.com/alaaalmasri12/notes-v-2.0/actions/runs/117805220) (GitHub Actions)
 
 ### Setup
 
