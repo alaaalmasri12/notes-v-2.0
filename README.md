@@ -8,7 +8,7 @@
 
 
 - [submission PR](https://github.com/alaaalmasri12/notes/pull/9)
-- [ci/cd](https://github.com/alaaalmasri12/notes/actions/runs/112446351) (GitHub Actions)
+- [ci/cd](https://github.com/alaaalmasri12/notes-v-2.0/actions/runs/117594090) (GitHub Actions)
 
 ### Setup
 
