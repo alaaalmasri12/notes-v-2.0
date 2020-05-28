@@ -1,0 +1,39 @@
+{
+  "name": "@ltuc/crud",
+  "version": "1.0.0",
+  "description": "Application development in the Node.js ecosystem, including the writing of modular code using CommonJS modules, writing tests to assert code quality, setting up and working in a \"Continuous Integration\"  environment (Github Actions).",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --verbose",
+    "lint": "eslint '**/*.js'",
+    "jsdoc": "jsdoc -c ./docs/config/jsdoc.config.json"
+  },
+  "keywords": [],
+  "author": "alaa almasri",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.0.1",
+    "jsdoc": "^3.6.4",
+    "minimist": "^1.2.5",
+    "mongoose": "^5.9.15"
+  },
+  "devDependencies": {
+    "@code-fellows/supergoose": "^1.0.2",
+    "eslint": "^7.0.0"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "directories": {
+    "doc": "docs",
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alaaalmasri12/notes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alaaalmasri12/notes/issues"
+  },
+  "homepage": "https://github.com/alaaalmasri12/notes#readme"
+}
