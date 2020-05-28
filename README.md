@@ -7,7 +7,7 @@
 ### Links and Resources
 
 
-- [submission PR](https://github.com/alaaalmasri12/notes/pull/9)
+- [submission PR](https://github.com/alaaalmasri12/notes-v-2.0/pull/1)
 - [ci/cd](https://github.com/alaaalmasri12/notes-v-2.0/actions/runs/117594090) (GitHub Actions)
 
 ### Setup
