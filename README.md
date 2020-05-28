@@ -4,6 +4,10 @@
 
 ### Author: Alaa almasri
 
+### Links and Resources
+
+- [submission PR](https://github.com/alaaalmasri12/notes-v-2.0/pull/2)
+- [ci/cd](https://github.com/alaaalmasri12/notes-v-2.0/actions/runs/117805220) (GitHub Actions)
 
 ### Documentaion
 ## to create a new item in database write the fellowing command
@@ -16,8 +20,11 @@
 
 ## to list an item  or all items in the database
 
->node index.js --list for all items
-
+to get all items
+code:
+>node index.js --list
+to get spesfic item
+code:
 >node index.js --list --catagory `<value>` for spesfic catagory
 
 ## to delete an item   in the database
@@ -29,11 +36,7 @@
 
 
 
-### Links and Resources
 
-
-- [submission PR](https://github.com/alaaalmasri12/notes/pull/9)
-- [ci/cd](https://github.com/alaaalmasri12/notes/actions/runs/112446351) (GitHub Actions)
 
 ### Setup
 
