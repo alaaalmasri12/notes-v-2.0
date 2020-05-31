@@ -6,9 +6,37 @@
 
 ### Links and Resources
 
+- [submission PR](https://github.com/alaaalmasri12/notes-v-2.0/pull/2)
+- [ci/cd](https://github.com/alaaalmasri12/notes-v-2.0/actions/runs/117805220) (GitHub Actions)
 
-- [submission PR](https://github.com/alaaalmasri12/notes-v-2.0/pull/1)
-- [ci/cd](https://github.com/alaaalmasri12/notes-v-2.0/actions/runs/117594090) (GitHub Actions)
+### Documentaion
+## to create a new item in database write the fellowing command
+
+>node index.js --create `<value>` --catagory `<value>`
+
+## to get an item in the database
+
+>node index.js --get `<id>`
+
+## to list an item  or all items in the database
+
+to get all items
+code:
+>node index.js --list
+to get spesfic item
+code:
+>node index.js --list --catagory `<value>` for spesfic catagory
+
+## to delete an item   in the database
+>node index.js --delete  `<id>` 
+
+## to update an item   in the database
+>node index.js --update --text `<value>`
+
+
+
+
+
 
 ### Setup
 
@@ -33,4 +61,5 @@ i.e.
 
 #### UML
 ![shift](assets/uml.png)
+
 
