@@ -23,16 +23,10 @@ describe('note Model', ()=> {
         return note.get(record._id)
           .then(NodeItem => {
             Object.keys(obj).forEach(key=> {
-              expect(NodeItem[key]).toEqual(NodeItem[key]);
+              expect(NodeItem[key]).toEqual(obj[key]);
             });
           });
       });
-    
-
-  
-
-
-  
   });
   it('can delete() a node item()', ()=> {
     let obj = {text: 'i am number tow', catagory: 'motvaational speeach'};
